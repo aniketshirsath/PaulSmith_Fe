@@ -14,7 +14,7 @@ Check it out here: https://paul-smith-fe.vercel.app/
 
 ![web1](https://github.com/user-attachments/assets/bad9ea47-a1ac-42a7-9786-4e3a07b75468)
 ![web2](https://github.com/user-attachments/assets/cac31086-196a-4916-aadb-3112fe7441d5)
-![web3](https://github.com/user-attachments/assets/71f8133e-7b70-4f9f-980d-0b5a20789a7e) |
+![web3](https://github.com/user-attachments/assets/71f8133e-7b70-4f9f-980d-0b5a20789a7e) 
 
 | Cart | Contact | Responsive View |
 
